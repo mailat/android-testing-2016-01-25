@@ -36,4 +36,6 @@ dependencies {
 
     // Instrumentation test dependencies
     androidTestCompile 'com.android.support.test:runner:0.4'
+
+    testCompile 'com.google.truth:truth:0.27'
 }
