@@ -28,6 +28,8 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.0.1'
     compile 'com.newcircle:yamba-client:2.1.0'
 
+    testCompile 'org.powermock:powermock-api-mockito:1.6.2'
+    testCompile 'org.powermock:powermock-module-junit4:1.6.2'
 
     // Local unit test dependencies
     testCompile 'junit:junit:4.12'
