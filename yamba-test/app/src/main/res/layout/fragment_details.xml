@@ -29,5 +29,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/text_created_at"
-        tools:text="This is a status update from the Yamba API!"/>
+        tools:text="@string/textMessage"/>
+
 </RelativeLayout>

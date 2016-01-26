@@ -42,4 +42,8 @@ Marius presentation on how to secure an Android app + decompiling - http://de.sl
 
 == Homework Day 02
 
-- TBD
+- If you already finished the Android Bootcamp: finish the last steps in the session lab in https://codelabs.developers.google.com/codelabs/android-testing/index.html?index=..%2F..%2Fandroid-dev-summit&viewga=UA-69243313-1#0
+- If you did not attend the Android Bootcamp: Create a Broadcast receiver which detects if the internet is returned after a FLIGHT MODE ON for example and refresh the Timeline events
+
+
+
