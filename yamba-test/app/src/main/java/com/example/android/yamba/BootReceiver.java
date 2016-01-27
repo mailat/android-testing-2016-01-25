@@ -10,7 +10,6 @@ import android.preference.PreferenceManager;
 import android.util.Log;
 
 public class BootReceiver extends BroadcastReceiver {
-
     private static final String TAG = BootReceiver.class.getSimpleName();
     private static final long DEFAULT_INTERVAL = 0;
 
